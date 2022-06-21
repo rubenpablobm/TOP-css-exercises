@@ -16,6 +16,9 @@ Verdana and DejaVu Sans with sans-serif as a fallback */
 /*
 THIRD ELEMENT: in addition to the styles for all odd numbered elements, add a font 
 size of 24px */
+#third{
+    font-size: 24px;
+}
 
 /*
 -FOURTH ELEMENT: a light green background, a font size of 24px, and bold */

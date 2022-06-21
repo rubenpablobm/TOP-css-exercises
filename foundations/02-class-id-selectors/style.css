@@ -8,6 +8,10 @@ Verdana and DejaVu Sans with sans-serif as a fallback */
 
 /*
 -SECOND ELEMENT: blue text and a font size of 36px */
+#second{
+    color:#0000ff;
+    font-size: 36px;
+}
 
 /*
 THIRD ELEMENT: in addition to the styles for all odd numbered elements, add a font 

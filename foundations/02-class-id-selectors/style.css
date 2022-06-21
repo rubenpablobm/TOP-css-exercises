@@ -1,6 +1,10 @@
 /*
 ODD NUMBERED ELEMENTS: a light red/pink background, and a list of fonts containing 
 Verdana and DejaVu Sans with sans-serif as a fallback */
+.odd{
+    background-color:#fc9797;
+    font-family: Verdana, DejaVu, sans-serif;
+}
 
 /*
 -SECOND ELEMENT: blue text and a font size of 36px */

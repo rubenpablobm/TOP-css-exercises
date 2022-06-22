@@ -5,6 +5,9 @@
 }
 
 /* The second element: a yellow background */
+.b{
+    background-color: #ffff00;
+}
 
 /* Both elements: a font size of 28px and a list of 
 fonts containing Helvetica and Times New Roman, with 

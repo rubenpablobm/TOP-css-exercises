@@ -12,3 +12,8 @@
 /* Both elements: a font size of 28px and a list of 
 fonts containing Helvetica and Times New Roman, with 
 sans-serif as a fallback */
+.b,
+.a{
+    font-size: 18px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}

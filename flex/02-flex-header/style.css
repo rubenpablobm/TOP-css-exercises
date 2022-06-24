@@ -12,6 +12,11 @@
   padding: 4px 32px;
 }
 
+.right-links{
+  margin-left: auto;
+  margin-right: 40px;
+}
+
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;

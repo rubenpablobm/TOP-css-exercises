@@ -4,6 +4,11 @@
   display: flex;
 }
 
+ul{
+  display: flex;
+  flex-direction: row;
+}
+
 .logo {
   font-size: 48px;
   font-weight: 900;

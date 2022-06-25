@@ -17,6 +17,15 @@ img {
   display: flex;
 }
 
+.info-block{
+  display: flex;
+  flex-direction: column;
+  /* when using flex-direction:column we center contents horizontally
+  with align-items:center */
+  align-items: center;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;

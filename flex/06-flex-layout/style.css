@@ -28,18 +28,29 @@ input {
   margin-bottom: 16px;
 }
 
-.header{
+.header,
+.footer{
   display: flex;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.header{
   margin-bottom: auto;
 }
 
 .footer{
-  display: flex;
   margin-top: auto;
+  background-color: rgb(215, 212, 212);
+}
+
+.left-links,
+.right-links{
+  display: flex;
+  gap: 20px;
 }
 
 .left-links{
-  display: flex;
   margin-right: auto;
 }
 
@@ -57,4 +68,11 @@ ul{
   margin: 0px;
   /* removes bullets */
   list-style-type: none;
+}
+
+.left-links li a,
+.right-links li a{
+  text-decoration: none;
+  color:dimgray;
+  cursor: auto;
 }

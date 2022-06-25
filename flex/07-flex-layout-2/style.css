@@ -20,6 +20,10 @@ div{
   padding-left: 16px;
 }
 
+.mid-section{
+flex: 1;
+}
+
 .footer {
   height: 72px;
   background: #eee;
